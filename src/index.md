@@ -7,7 +7,7 @@ date: June 21, 2017
 ```python
 print("hello world")
 ```
-# Bar
+# Amir
 * $x^2$
 * test
 
